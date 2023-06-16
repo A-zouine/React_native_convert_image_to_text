@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "convert_image_to_text",
+    "slug": "convert_image_to_text",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "convert_image_to_text"
+}
